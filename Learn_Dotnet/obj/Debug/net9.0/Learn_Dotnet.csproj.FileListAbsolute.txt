@@ -1,0 +1,14 @@
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/bin/Debug/net9.0/Learn_Dotnet
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/bin/Debug/net9.0/Learn_Dotnet.deps.json
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/bin/Debug/net9.0/Learn_Dotnet.runtimeconfig.json
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/bin/Debug/net9.0/Learn_Dotnet.dll
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/bin/Debug/net9.0/Learn_Dotnet.pdb
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/Learn_Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/Learn_Dotnet.AssemblyInfoInputs.cache
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/Learn_Dotnet.AssemblyInfo.cs
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/Learn_Dotnet.csproj.CoreCompileInputs.cache
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/Learn_Dotnet.dll
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/refint/Learn_Dotnet.dll
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/Learn_Dotnet.pdb
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/Learn_Dotnet.genruntimeconfig.cache
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/ref/Learn_Dotnet.dll
