@@ -12,3 +12,4 @@
 /Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/Learn_Dotnet.pdb
 /Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/Learn_Dotnet.genruntimeconfig.cache
 /Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/ref/Learn_Dotnet.dll
+/Users/arghyadeepmukherjee/Developer/Dotnet/Learn_Dotnet/Learn_Dotnet/obj/Debug/net9.0/Learn_Dotnet.sourcelink.json
