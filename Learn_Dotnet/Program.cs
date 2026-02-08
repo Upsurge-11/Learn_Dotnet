@@ -17,7 +17,7 @@ namespace Learn_Dotnet
 
     public static string FormatDateTime(DateTime the_date)
     {
-      return the_date.ToString("yyyy--MM--dd");
+      return the_date.ToString("yyyy--M--d");
     }
 
     public static string FormatJoinStrings(string[] strs)
